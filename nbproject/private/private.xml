@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/controller/AdminContactsServlet.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>150</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/web/views/customer/ordersDetail.jsp</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/web/admin/views/report/top20NewProduct.jsp</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/AdminProductsServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/AdminStoragesServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/AdminsFacadeLocal.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/AdminsFacade.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/CustomerServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/web/views/customer/ordersBill.jsp</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/AdminEmployeesServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/AdminOrdersServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/ProductsFacadeLocal.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/AdminServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/web/views/customer/orderManagement.jsp</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/OrdersDetailFacade.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/OrdersDetailFacadeLocal.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/controller/AdminWishlistServlet.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/web/admin/views/product/list.jsp</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/ProductsFacade.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/src/java/model/WishlistFacade.java</file>
+            <file>file:/C:/Users/Jiawei/Downloads/4.38am26.6.2020/NHLSport/web/admin/views/report/top20NewEmployee.jsp</file>
+        </group>
+    </open-files>
+</project-private>
